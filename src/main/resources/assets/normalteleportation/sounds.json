@@ -1,0 +1,12 @@
+{
+  "blink": {
+    "sounds": [
+      "normalteleportation:blink"
+    ]
+  },
+  "switch": {
+    "sounds": [
+      "normalteleportation:switch"
+    ]
+  }
+}
